@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Wajdi
 
 I'm a computer science student passionate about solving real-world problems through code. I enjoy building full-stack applications, working with low-level tools like Flex/Bison, and exploring how technology can drive sustainability and social impact.
 
